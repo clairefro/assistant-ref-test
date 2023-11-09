@@ -1,0 +1,11 @@
+id,timestamp,location,activity,tree_species,latitude,longitude
+1,2023-11-09 10:00:00,The Mall,Eating,American Elm,40.7649,-73.9724
+2,2023-11-09 10:15:00,Bow Bridge,Running,Red Oak,40.7712,-73.9687
+3,2023-11-09 10:30:00,Belvedere Castle,Scavenging,Sycamore,40.7798,-73.9654
+4,2023-11-09 10:45:00,Bethesda Terrace,Sleeping,White Pine,40.7740,-73.9705
+5,2023-11-09 11:00:00,The Ramble,Playing,Maple,40.7749,-73.9718
+6,2023-11-09 11:15:00,Central Park Zoo,Grooming,Birch,40.7678,-73.9718
+7,2023-11-09 11:30:00,Bowling Green,Exploring,Willow,40.7044,-74.0141
+8,2023-11-09 11:45:00,Sheep Meadow,Resting,Dogwood,40.7677,-73.9755
+9,2023-11-09 12:00:00,Conservatory Water,Foraging,Cherry,40.7742,-73.9711
+10,2023-11-09 12:15:00,Alice in Wonderland Statue,Sunning,Magnolia,40.7759,-73.9652
